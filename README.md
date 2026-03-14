@@ -49,5 +49,6 @@ Below is a demonstration of **NeuralNetOps** in action. The tool successfully de
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/NeuralNetOps.git](https://github.com/YOUR_USERNAME/NeuralNetOps.git)
+   git clone git@github.com:amierattia/AutiNet.git
    cd NeuralNetOps
+   
