@@ -19,8 +19,9 @@ Below is a demonstration of **NeuralNetOps** in action. The tool successfully de
 </p>
 
 <p align="center">
-  <img src="image_cf9cec.png" width="45%" alt="Terminal UI" />
-  <img src="image_cf9a24.png" width="45%" alt="Network Topology" />
+  <img src="Screenshot 2026-03-14 161331.png" width="45%" alt="Terminal UI" />
+  <img src="  <img src="Screenshot 2026-03-14 161331.png" width="45%" alt="Network Topology" />" width="45%" alt="SecureCRT Verification" />
+  <img src="Screenshot 2026-03-14 161331.png" width="45%" alt="Network Topology" />
 </p>
 
 ---
