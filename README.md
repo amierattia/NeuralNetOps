@@ -13,8 +13,7 @@
 Below is a demonstration of **NeuralNetOps** in action. The tool successfully detects the Cisco OS, processes a natural language request, and pushes the generated CLI commands to the device.
 
 <p align="center">
-  <img src="image_cf8ec3.png" width="90%" alt="AI Logic and Execution" />
-  <br>
+ 
   <em>Figure 1: AI-powered command generation and Netmiko execution flow.</em>
 </p>
 
